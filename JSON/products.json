@@ -1,0 +1,22 @@
+{
+    "huawei" : [
+        {"id":1,"name":"huawei Y7 Prime","price":670000,"image":"images/h1.jpg"},
+        {"id":2,"name":"huawei Y8 Prime","price":870000,"image":"images/h2.jpg"},
+        {"id":3,"name":"huawei Y9 Prime","price":570000,"image":"images/h3.jpg"},
+        {"id":4,"name":"huawei  Prime","price":470000,"image":"images/h4.jpg"}
+    ],
+
+    "nokia" : [
+        {"id":5,"name":"nokia 1","price":350000,"image":"images/n1.jpg"},
+        {"id":6,"name":"nokia 2","price":560000,"image":"images/n2.jpg"},
+        {"id":7,"name":"nokia 3","price":340000,"image":"images/n3.jpg"},
+        {"id":8,"name":"nokia 4","price":270000,"image":"images/n4.jpg"}
+
+    ],
+    "samsung" : [
+        {"id":9,"name":"samsung 1","price":350000,"image":"images/s1.jpg"},
+        {"id":10,"name":"samsung 2","price":560000,"image":"images/s2.jpg"},
+        {"id":11,"name":"samsung 3","price":340000,"image":"images/s3.jpg"},
+        {"id":12,"name":"samsung 4","price":270000,"image":"images/s4.jpg"}
+    ]
+}

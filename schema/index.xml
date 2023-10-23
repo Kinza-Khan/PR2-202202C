@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<aptech>
+  <faculty>
+    <facultyName></facultyName>
+    <facultySalary>90000</facultySalary>
+    <facultyCity></facultyCity>
+  </faculty> 
+  <faculty>
+    <facultyName></facultyName>
+    <facultySalary>85000</facultySalary>
+    <facultyCity></facultyCity>
+  </faculty> 
+  <faculty>
+    <facultyName></facultyName>
+    <facultySalary>80000</facultySalary>
+    <facultyCity></facultyCity>
+  </faculty> 
+  <it>
+    <empName></empName>
+    <salary></salary>
+  </it>
+  <examination></examination> 
+</aptech>
