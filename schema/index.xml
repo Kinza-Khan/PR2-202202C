@@ -2,19 +2,23 @@
 <?xml-model href="index.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <aptech>
   <faculty>
-    <facultyName></facultyName>
+    <facultyName>ali</facultyName>
     <facultySalary>90000</facultySalary>
-    <facultyCity></facultyCity>
+    <facultyEmail>ali@gmail.com</facultyEmail>
+    <facultyCity>lahore</facultyCity>
+
   </faculty> 
   <faculty>
-    <facultyName></facultyName>
+    <facultyName>aqsa</facultyName>
     <facultySalary>85000</facultySalary>
-    <facultyCity></facultyCity>
+    <facultyEmail>aqsa@gmail.com</facultyEmail>
+    <facultyCity>lahore</facultyCity>
   </faculty> 
   <faculty>
-    <facultyName></facultyName>
+    <facultyName>hamza</facultyName>
     <facultySalary>80000</facultySalary>
-    <facultyCity></facultyCity>
+    <facultyEmail>h@gmail.com</facultyEmail>
+    <facultyCity>karachi</facultyCity>
   </faculty> 
   <it>
     <empName></empName>
